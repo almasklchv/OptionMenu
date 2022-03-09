@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/YoutubersItem" android:title="Список ютуберов СНГ"></item>
+    <item android:id="@+id/WrldYoutubersItem" android:title="Список ютуберов в мире"></item>
+    <item android:id="@+id/TwitchStreamersItem" android:title="Список стримеров твич СНГ"></item>
+    <item android:id="@+id/WrldTwitchStreamersItem" android:title="Список стримеров твич в мире"></item>
+
+</menu>
